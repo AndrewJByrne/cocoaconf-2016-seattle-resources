@@ -21,12 +21,12 @@ A list of resources (code and slides) from CocoaConf 2016
 | <img src="https://pbs.twimg.com/profile_images/651240724004864001/OFRHu0o9.jpg" alt="no image available" width="40" />   | Natashsa Murashev                 | [@natashatherobot](https://twitter.com/natashatherobot)                                 | Practical Protocol-Oriented-Programming    | [slides](https://www.slideshare.net/mobile/natashatherobot/practial-protocolorientedprogramming)                                                                 |
 
 **Other resources**
+
 [Andrew's CocoaConf Tweets](https://twitter.com/search?q=%23CocoaConf%20from%3AAndrewJByrne&src=typd&lang=en)
 
 [CocoaConf Website](http://cocoaconf.com/seattle-2016/home)
 
 [CocoaConf Tweets](https://twitter.com/search?q=%23CocoaConf%20since%3A2016-05-05%20until%3A2016-05-08&src=typd&lang=en)
-
 
 [Bad code isn't Technical Debt, it's an unhedged Call Option](http://higherorderlogic.com/2010/07/bad-code-isnt-technical-debt-its-an-unhedged-call-option/)
 by Steve Freeman, shared by [@curtclifton](https://twitter.com/curtclifton) 
@@ -39,5 +39,18 @@ framework](https://github.com/aleph7/BrainCore) shared by [@aleph7](https://twit
 [Tensor Flow](http://playground.tensorflow.org/)
 
 [Swift AI](https://github.com/collinhundley/Swift-AI)
+
+[Phabricator](http://phabricator.org/)
+
+[Chisel](https://github.com/facebook/chisel)
+
+[Reveal](http://revealapp.com/)
+
+[Spark Inspector](http://sparkinspector.com/)
+
+[Fastlane Snapshot](https://github.com/fastlane/fastlane/tree/master/snapshot)
+
+
+
 
 
