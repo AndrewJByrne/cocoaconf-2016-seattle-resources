@@ -36,4 +36,8 @@ framework](https://github.com/aleph7/BrainCore) shared by [@aleph7](https://twit
 
 [C4 Studio](http://www.c4studio.co/) 
 
+[Tensor Flow](http://playground.tensorflow.org/)
+
+[Swift AI](https://github.com/collinhundley/Swift-AI)
+
 
